@@ -1,4 +1,4 @@
-import requests from "../../Utils/requests";
+import requests from "../Utils/requests";
 import { useRouter } from "next/router";
 
 function Nav() {
